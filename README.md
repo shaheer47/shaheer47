@@ -84,10 +84,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shaheer47/shaheer47/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif"  />
 </div>
